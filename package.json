@@ -1,0 +1,15 @@
+{
+  "name": "simple-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"npx electron main.js"
+  },
+  "author": "Dmitry Smolin",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.0.0-beta.13"
+  }
+}
